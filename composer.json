@@ -1,0 +1,14 @@
+{
+    "name": "rjgc10010/composer-demo",
+    "description": "composer demo project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "rjgc10010",
+            "email": "rjgc10010@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
